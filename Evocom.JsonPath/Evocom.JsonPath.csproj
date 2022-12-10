@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="JsonFile\" />
+    <ProjectReference Include="..\Evocom.JsonPath.Lib\Evocom.JsonPath.Lib.csproj" />
   </ItemGroup>
 
 </Project>
